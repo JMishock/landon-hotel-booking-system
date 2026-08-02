@@ -4,6 +4,10 @@ A Dockerized hotel reservation application built with Java, Spring Boot, Angular
 
 This project was completed as part of Western Governors University’s **Advanced Java (D387)** course. The original Landon Hotel starter application was extended to support multilingual welcome messages, multi-currency reservation pricing, time-zone conversion, and Docker containerization.
 
+## Application Preview
+
+![Landon Hotel Booking System](screenshots/landon-hotel-home.png)
+
 ---
 
 ## Project Overview
