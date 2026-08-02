@@ -6,7 +6,11 @@ This project was completed as part of Western Governors University’s **Advance
 
 ## Application Preview
 
-![Landon Hotel Booking System](screenshots/Screenshot 2026-07-06 120931.jpg)
+![Landon Hotel Booking System](screenshots/landon-hotel-home.jpg)
+
+---
+
+## Project Overview
 
 ---
 
